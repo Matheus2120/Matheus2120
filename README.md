@@ -1,5 +1,5 @@
 # hi.
-- im matheus i like to draw, do music and coding some things in Haxe.
+- im matheus i like to draw, do music and some coding.
 -------
 # my coding stuff:
 - My laptop: **Samsung Book NP550XDA-KH7BR**
