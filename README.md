@@ -1,4 +1,4 @@
-# hi.
+# 👋 Hi.
 - im matheus i like to draw, do music and some coding.
 -------
 # my coding stuff:
