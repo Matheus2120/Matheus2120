@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- My actual IDE: **Visual Studio Code**
+- My current IDE: **Visual Studio Code**
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode" />
