@@ -1,5 +1,5 @@
 # 👋 Hi.
-- my name is matheus i like to draw, do music and some coding.
+- my name is Matheus and, i like to draw, do music and some coding.
 -------
 # my coding stuff:
 - My laptop: **Samsung Book NP550XDA-KH7BR**
